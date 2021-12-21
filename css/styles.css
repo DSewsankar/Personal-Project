@@ -17,4 +17,5 @@ p {
   text-align: center;
   text-indent: 2em;
   /*line-height: 200%;*/
+  margin: auto;
 }
