@@ -14,8 +14,16 @@ a:visited {
 }
 p {
   max-width: 900px;
-  text-align: center;
+  text-align: justify;
   text-indent: 2em;
-  /*line-height: 200%;*/
+  line-height: 175%;
   margin: auto;
+}
+.paper h1 {
+  color: black;
+  background: transparent;
+}
+.paper h2 {
+  margin: auto;
+  width: fit-content;
 }
